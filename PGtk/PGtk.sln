@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGtk", "PGtk\PGtk.csproj", "{BF2CECC7-8D48-48CD-B50F-32CB4DEF5A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2CECC7-8D48-48CD-B50F-32CB4DEF5A59}.Debug|x86.ActiveCfg = Debug|x86
+		{BF2CECC7-8D48-48CD-B50F-32CB4DEF5A59}.Debug|x86.Build.0 = Debug|x86
+		{BF2CECC7-8D48-48CD-B50F-32CB4DEF5A59}.Release|x86.ActiveCfg = Release|x86
+		{BF2CECC7-8D48-48CD-B50F-32CB4DEF5A59}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PGtk\PGtk.csproj
+	EndGlobalSection
+EndGlobal
